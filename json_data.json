@@ -1,0 +1,127 @@
+{
+  "parameters": {
+    "gridsize": 23,
+    "cars": 20,
+    "steps": 200,
+    "turn_chance": 0.5,
+    "car_chance": 0.1,
+    "min_time_light": 15,
+    "max_time_light": 30
+  },
+  "car_0": {
+    "x": 10,
+    "y": 13,
+    "new": "not"
+  },
+  "light_1": {
+    "id": 0,
+    "light_state": 1
+  },
+  "light_2": {
+    "id": 1,
+    "light_state": 1
+  },
+  "light_3": {
+    "id": 2,
+    "light_state": 0
+  },
+  "light_4": {
+    "id": 3,
+    "light_state": 0
+  },
+  "car_1": {
+    "x": 21,
+    "y": 11,
+    "new": "not"
+  },
+  "car_2": {
+    "x": 12,
+    "y": 6,
+    "new": "not"
+  },
+  "car_3": {
+    "x": 1,
+    "y": 11,
+    "new": "not"
+  },
+  "car_4": {
+    "x": 11,
+    "y": 14,
+    "new": "not"
+  },
+  "car_5": {
+    "x": 23,
+    "y": 11,
+    "new": "not"
+  },
+  "car_6": {
+    "x": 12,
+    "y": 7,
+    "new": "not"
+  },
+  "car_7": {
+    "x": 11,
+    "y": 14,
+    "new": "not"
+  },
+  "car_8": {
+    "x": 23,
+    "y": 12,
+    "new": "right"
+  },
+  "car_9": {
+    "x": 12,
+    "y": 4,
+    "new": "not"
+  },
+  "car_10": {
+    "x": 3,
+    "y": 11,
+    "new": "not"
+  },
+  "car_11": {
+    "x": 12,
+    "y": 9,
+    "new": "not"
+  },
+  "car_12": {
+    "x": 1,
+    "y": 12,
+    "new": "not"
+  },
+  "car_13": {
+    "x": 11,
+    "y": 15,
+    "new": "not"
+  },
+  "car_14": {
+    "x": 21,
+    "y": 12,
+    "new": "not"
+  },
+  "car_15": {
+    "x": 3,
+    "y": 12,
+    "new": "not"
+  },
+  "car_16": {
+    "x": 11,
+    "y": 17,
+    "new": "not"
+  },
+  "car_17": {
+    "x": 13,
+    "y": 11,
+    "new": "not"
+  },
+  "car_18": {
+    "x": 12,
+    "y": 8,
+    "new": "not"
+  },
+  "car_19": {
+    "x": 5,
+    "y": 11,
+    "new": "not"
+  }
+}
