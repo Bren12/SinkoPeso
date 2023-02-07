@@ -30,7 +30,7 @@
 .DS_Store
 
 # Python cache directory
-__pycache__/
+/__pycache__/
 
 # Gradle cache directory
 .gradle/
