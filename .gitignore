@@ -26,6 +26,12 @@
 # Visual Studio cache directory
 .vs/
 
+# Xcode cache
+.DS_Store
+
+# Python cache directory
+/__pycache__/
+
 # Gradle cache directory
 .gradle/
 
