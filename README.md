@@ -3,6 +3,8 @@
 Source code developed for the project of the TC2008B course.
 
 **Course:** TC2008B (Modeling of Multi-Agent Systems with Computer Graphics) <br>
+**Platform:** Unity <br>
+**Language:** C# & Python <br>
 **Semester:** AD22 <br>
 
 **Developed by:**
